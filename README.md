@@ -16,8 +16,7 @@
 <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/ochell2" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-leo
-&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-leo&hide=contribs,prs)
 
 
  
