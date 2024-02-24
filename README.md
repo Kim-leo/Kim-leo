@@ -1,6 +1,6 @@
 <div align=center>
  
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Kim-leo&fontAlign=30&fontSize=30&textBg=true&desc=Welcome!%20Glad%20to%20meet%20you&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Kim-leo&fontAlign=30&fontSize=30&textBg=true&desc=Welcome!%20&descAlign=60&descAlignY=50)
 
  
 <h3>Teck Stack</h3>
