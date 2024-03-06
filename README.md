@@ -10,10 +10,13 @@
 <br>
 <br>
 <h3>Contact</h3>
-<a href="https://www.notion.so/Leo-Kim-6cca25d3d15441bba4a1efad4e3e99b6">
-  <img src="http://img.shields.io/badge/Notion-000000?style=flat&logo=notion&link=https://www.notion.so/Leo-Kim-6cca25d3d15441bba4a1efad4e3e99b6" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+<a href="https://velog.io/@kleo888">
+<img src="https://velog-readme-stats.vercel.app/api/badge?name=kleo888" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 <a href="https://blog.naver.com/ochell2">
 <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/ochell2" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 <br>
 <br>
 
