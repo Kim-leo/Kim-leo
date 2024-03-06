@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff"/></a>
 <br>
 <br>
-<h3>Contact</h3>
+<h3>Blog</h3>
 
 <a href="https://velog.io/@kleo888">
 <img src="https://velog-readme-stats.vercel.app/api/badge?name=kleo888" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
